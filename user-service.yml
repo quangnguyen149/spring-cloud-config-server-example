@@ -1,3 +1,5 @@
 service:
   name: 'user-service'
   port: 3000
+mongodb:
+  uri: 'mongodb://user:password@localhost:27017/db'
