@@ -1,0 +1,3 @@
+service:
+  name: 'User Service'
+  port: '3000'
