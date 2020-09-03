@@ -1,3 +1,3 @@
-service:
+info:
   name: 'User Service'
   port: '3000'
