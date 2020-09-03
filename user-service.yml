@@ -3,7 +3,7 @@ service:
   port: 3000
 
 # TODO: Init these secret properties when init vault as well. For now, just manually create.
-mongodb:
-  uri: 'mongodb://user:password@localhost:27017/db'
-  database: 'db'
-  auth-database: 'admin'
+#mongodb:
+  #uri: 'mongodb://user:password@localhost:27017/db'
+  #database: 'db'
+  #auth-database: 'admin'
