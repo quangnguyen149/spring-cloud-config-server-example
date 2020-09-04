@@ -1,3 +1,8 @@
 service:
   name: 'car-service'
   port: 4000
+
+mongodb:
+  uri: 'mongodb://user:password@localhost:27017/db'
+  database: 'db'
+  auth-database: 'admin'
