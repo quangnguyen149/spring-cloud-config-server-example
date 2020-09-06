@@ -1,0 +1,3 @@
+service:
+  name: 'payment-service'
+  port: 5000
