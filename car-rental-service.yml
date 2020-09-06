@@ -1,0 +1,3 @@
+service:
+  name: 'car-rental-service'
+  port: '9000'
