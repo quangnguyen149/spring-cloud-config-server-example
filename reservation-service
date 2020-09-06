@@ -1,0 +1,3 @@
+service:
+  name: 'reservation-service'
+  port: 6000
