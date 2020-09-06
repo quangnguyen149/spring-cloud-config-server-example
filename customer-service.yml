@@ -1,5 +1,5 @@
 service:
-  name: 'user-service'
+  name: 'customer-service'
   port: 3000
 
 # TODO: Init these secret properties when init vault as well. For now, just manually create.
