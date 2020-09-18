@@ -1,0 +1,3 @@
+service:
+  name: 'auth-service'
+  port: 8000
